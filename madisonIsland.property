@@ -1,0 +1,3 @@
+ckey=webdriver.chrome.driver
+cvalue=src/test/resources/drivers/chromedriver.exe
+url=http://demo-store.seleniumacademy.com/
